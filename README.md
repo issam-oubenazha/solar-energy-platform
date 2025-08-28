@@ -172,7 +172,4 @@ define('DB_CHARSET', 'utf8mb4');
 ## Support
 Pour toute question ou problème, veuillez contacter l'administrateur via le système de messagerie intégré.
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
->>>>>>> c092ed5 (setup solar energy platform)
